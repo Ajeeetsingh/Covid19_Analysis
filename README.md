@@ -124,15 +124,15 @@ Below are some snapshots of the dashboard visualizations:
 - **Health Capacity Over Time in Australia**
   ![Healthcare Capacity](Images/healthcare_capacity.PNG)
 - **Mobility vs. Case Growth in Argentina**
-  ![Mobility vs. Cases](Images/mobility_vs_cases.png)
+  ![Mobility vs. Cases](Images/mobility_vs_cases.PNG)
 - **Policy Effectiveness by Country**
-  ![Policy Effectiveness](Images/policy_effectiveness.png)
+  ![Policy Effectiveness](Images/policy_effectiveness.PNG)
 - **Testing Rates by Country**
-  ![Testing Rate](Images/testing_rate.png)
+  ![Testing Rate](Images/testing_rate.PNG)
 - **Testing Rates and Healthcare Capacity by Country**
-  ![Testing Rate Chart](Images/testing_rate_chart.png)
+  ![Testing Rate Chart](Images/testing_rate_chart.PNG)
 - **Vaccination Rates Over Time in Argentina**
-  ![Vaccination Rate](Images/vaccination_rate.png)
+  ![Vaccination Rate](Images/vaccination_rate.PNG)
 
 ## 12. License & Usage
 
