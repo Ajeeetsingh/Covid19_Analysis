@@ -114,15 +114,15 @@ Covid_19_Project/
 Below are some snapshots of the dashboard visualizations:
 
 - **Cases and Deaths per Million by Country**
-  ![Cases and Deaths](Images/cases_deaths.png)
+  ![Cases and Deaths](Images/cases_deaths.PNG)
 - **Case Fatality Rate by Country**
-  ![CFR](Images/CFR.png)
+  ![CFR](Images/CFR.PNG)
 - **Case Fatality Rate - Map View**
-  ![CFR Map](Images/CFR_map.png)
+  ![CFR Map](Images/CFR_map.PNG)
 - **Case Fatality Rate - Table View**
-  ![CFR Table](Images/CFR_table.png)
+  ![CFR Table](Images/CFR_table.PNG)
 - **Health Capacity Over Time in Australia**
-  ![Healthcare Capacity](Images/healthcare_capacity.png)
+  ![Healthcare Capacity](Images/healthcare_capacity.PNG)
 - **Mobility vs. Case Growth in Argentina**
   ![Mobility vs. Cases](Images/mobility_vs_cases.png)
 - **Policy Effectiveness by Country**
